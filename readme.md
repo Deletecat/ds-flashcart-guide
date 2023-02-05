@@ -1,6 +1,6 @@
-#A guide to setting up your DS Flashcart, more commonly known as R4 cards!
+# A guide to setting up your DS Flashcart, more commonly known as R4 cards!
 
-I do not store the files for each cart, instead I have linked to the ds-homebrew flashcard archive
+## I do not store the files for each cart, instead I have linked to the ds-homebrew flashcard archive
 
 This guide will have instructions on how to identify and set up your DS Flashcard. As well as this, there will also be some troubleshooting steps should something not work correctly! In some cases, direct download links to your carts kernel may not be available for licensing reasons (YSMenu)
 

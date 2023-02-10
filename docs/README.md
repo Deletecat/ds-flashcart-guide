@@ -38,7 +38,7 @@ Here is the software that I'd recommend using to extract your carts kernel:
 
 - [7-Zip](https://7-zip.org) (Windows) - 7-Zip is a file archiver that is free and open source!
 - [The Unarchiver](https://theunarchiver.com/) (MacOS) - File extractor for Mac OS, much better than Archive Utility in my opinion!
-- [PeaZip](https://github.com/peazip/PeaZip/) (Windows/MacOS/Linux) - Similar to 7-Zip, PeaZip is a file archiver software that works on Windows, MacOS and Linux. While I prefer 7-Zip, it's free and open source!
+- [PeaZip](https://github.com/peazip/PeaZip/) (Windows/MacOS/Linux) - Similar to 7-Zip, PeaZip is a file archiver that works on Windows, MacOS and Linux. While I prefer 7-Zip, it's free and open source!
 
 If you are using linux, most of the time a file extractor will be included with your distro, I'd recommend using that instead
 

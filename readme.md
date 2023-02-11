@@ -11,3 +11,5 @@ I am not responsible for any damage that may occur to your flashcard. Using the 
 If you notice any spelling errors, issues with the guide, or wish to add translations; please open an issue or pull request!
 
 I am using Docsify for this site, it may not be the best choice, but I'm giving it a go anyways!
+
+# This is a work in progress, as of right now, it is not ready to use

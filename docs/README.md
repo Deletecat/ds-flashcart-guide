@@ -1,6 +1,8 @@
-# DS Flashcard guide
+<h1>DS Flashcard guide</h1>
 
 Welcome to the DS Flashcard guide! This is a project started by me, [Deletecat](https://deletecat.com), which should help you get started using your DS Cart (or more commonly known as R4 cards!)
+
+<h2><b>As of right now, this is a work on progress, there are no guides on this site as of yet</b></h2>
 
 I will be slowly building on this site over the next few months to try and include as many carts as possible. However, I cannot do this alone! If you would like to contribute, please visit the github page for this site by clicking the octocat in the top right corner :)
 
@@ -38,12 +40,22 @@ Here is the software that I'd recommend using to extract your carts kernel:
 
 - [7-Zip](https://7-zip.org) (Windows) - 7-Zip is a file archiver that is free and open source!
 - [The Unarchiver](https://theunarchiver.com/) (MacOS) - File extractor for Mac OS, much better than Archive Utility in my opinion!
-- [PeaZip](https://github.com/peazip/PeaZip/) (Windows/MacOS/Linux) - Similar to 7-Zip, PeaZip is a file archiver that works on Windows, MacOS and Linux. While I prefer 7-Zip, it's free and open source!
+- [PeaZip](https://github.com/peazip/PeaZip/) (Windows/MacOS/Linux) - Similar to 7-Zip, PeaZip is a file archiver that works on Windows, MacOS and Linux. While I prefer 7-Zip, PeaZip is also free and open source!
 
 If you are using linux, most of the time a file extractor will be included with your distro, I'd recommend using that instead
 
-I do not recommend using WinRAR - yes, it's technically free as it doesn't force you to pay - why bother using it in the first place when there are better foss alternatives?
+?> I do not recommend using WinRAR - yes, it's technically free as it doesn't force you to pay - why bother using it in the first place when there are better FOSS alternatives?
 
 ### Piracy Disclaimer
 
-I have not, and will not, promote piracy on this site. This site is intended to setup your DS Flashcart, not to download ROMs. There are other sites dedicated to ROMs and Piracy. **This is not one of them**.
+I have not, and will not, promote piracy on this site. This site is intended to setup your DS Flashcart, not to download ROMs. There are other sites dedicated to ROMs and Piracy. **This is not one of them**. 
+
+## Identifying your cart
+
+Now we are on to the important section of this guide, identifying your cart. 
+
+A simple question, does your cart have a label with the manufacturers website name on it?
+
+- [Cart has a label with a website name]() 
+- [Cart has a label without a website name]() 
+- [No label or website name on the cart]()

@@ -56,6 +56,6 @@ Now we are onto the important section of this guide, identifying your cart.
 
 A simple question, does your cart have a label with the manufacturers website name on it?
 
-- [Cart has a label with a website name]() 
-- [Cart has a label without a website name]() 
-- [No label or website name on the cart]()
+- [Cart has a label with a website name](website.md) 
+- [Cart has a label without a website name](no_website.md) 
+- [No label or website name on the cart](no_label.md)

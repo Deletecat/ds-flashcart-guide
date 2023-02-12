@@ -22,13 +22,13 @@ Your micro SD card has to be formatted as Fat32 in order for it to work on these
 
 !> Warning about Fake/Cheap Micro SD Cards (or storage in general) 
 
-I would suggest buying your micro SD cards in stores instead of marketplaces like Amazon*\. I say this because there are many fake micro SD cards online, just search '1TB micro sd card' on marketplaces like Amazon and AliExpress to see what I mean. "High Capacity" micro SD cards that are somehow cheaper than name brands. **DO NOT** trust these micro SD cards, they are a lower capacity than what they claim. Even if you could figure out the capacity, still not a good idea to trust them seeing as they are usually QC rejects.
+I would suggest buying your micro SD cards in stores instead of marketplaces like Amazon. I say this because there are many fake micro SD cards online. "High Capacity" micro SD cards that are somehow cheaper than name brands. **DO NOT** trust these micro SD cards, they are a lower capacity than what they claim. Even if you could figure out the capacity, still not a good idea to trust them, I feel as though [this video](https://youtu.be/HFY5hd273lI) is great at explaining why. It was made a few years ago, the information is still up to date in 2023. In very rare cases, these fake storage devices contain malware. If it looks too good to be true, don't buy it
 
-Sometimes you may see, for example, a 32GB micro SD card that's cheaper than the rest. If it's generic or from a brand you have never heard of, **DO NOT BUY IT**. A lot of the time these SD cards are produced cheaply, they will fail within weeks or months. These are also the micro SD cards that are being bundled with the DS cards. If you recieve a micro SD card with your DS Cart, throw it away.
+Sometimes you may see, for example, a 32GB micro SD card that's cheaper than the rest. A lot of the time, these are real micro SD cards. But they are slow, I wouldn't suggest buying them if you can. I would also stay away from generic micro SD cards, if a company doesn't attach their name to a product, it's likely a terrible product
 
-Always stick to name brands like SanDisk, Samsung Evo, Kingston, etc. They produce high quality micro SD cards that should last for as long as you use the cart
+Always stick to name brands like SanDisk. Even if the name brand SD cards are more expensive than the other offerings on these marketplaces, the quality is guaranteed most of the time. I avoid marketplaces when buying storage devices as you never know whether the seller you are buying from will give you a genuine product or not. Call me paranoid, but I'd rather have the gaurantee that my storage has come from the brand it claims to be
 
-** Some stores *cough Walmart cough* do sell some of their marketplace items in store. Be careful, if it's cheap and high capacity, it's probably fake. 
+!> Some stores *cough Walmart cough* have sold some of their marketplace items in store. Be careful, if it's cheap and high capacity, it's probably fake
 
 #### Formatting your SD card
 
@@ -52,7 +52,7 @@ I have not, and will not, promote piracy on this site. This site is intended to 
 
 ## Identifying your cart
 
-Now we are on to the important section of this guide, identifying your cart. 
+Now we are onto the important section of this guide, identifying your cart. 
 
 A simple question, does your cart have a label with the manufacturers website name on it?
 

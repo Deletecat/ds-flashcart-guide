@@ -20,7 +20,7 @@ You won't be left in the dark about this, on pages where are cart is limited to 
 
 Your micro SD card has to be formatted as Fat32 in order for it to work on these DS carts. Carts that do not have a 2GB limit can use micro SD cards that are up to 2TB in capacity when formatted correctly. Though, personally, anything above 32GB is excessive. DS ROMs are small so you do not need massive micro SD cards
 
-!> Warning about Fake/Cheap Micro SD Cards (or storage in general) 
+!> Warning about Fake/Cheap Micro SD Cards (or storage in general)
 
 I would suggest buying your micro SD cards in stores instead of marketplaces like Amazon. I say this because there are many fake micro SD cards online. "High Capacity" micro SD cards that are somehow cheaper than name brands. **DO NOT** trust these micro SD cards, they are a lower capacity than what they claim. Even if you could figure out the capacity, still not a good idea to trust them, I feel as though [this video](https://youtu.be/HFY5hd273lI) is great at explaining why. It was made a few years ago, the information is still up to date in 2023. In very rare cases, these fake storage devices contain malware. If it looks too good to be true, don't buy it
 
@@ -48,14 +48,18 @@ If you are using linux, most of the time a file extractor will be included with 
 
 ### Piracy Disclaimer
 
-I have not, and will not, promote piracy on this site. This site is intended to setup your DS Flashcart, not to download ROMs. There are other sites dedicated to ROMs and Piracy. **This is not one of them**. 
+I have not, and will not, promote piracy on this site. This site is intended to setup your DS Flashcart, not to download ROMs. There are other sites dedicated to ROMs and Piracy. **This is not one of them**.
 
 ## Identifying your cart
 
-Now we are onto the important section of this guide, identifying your cart. 
+Now we are onto the important section of this guide, identifying your cart.
 
 A simple question, does your cart have a label with the manufacturers website name on it?
 
-- [Cart has a label with a website name](website.md) 
-- [Cart has a label without a website name](no_website.md) 
+- [Cart has a label with a website name](website.md)
+- [Cart has a label without a website name](no_website.md)
 - [No label or website name on the cart](no_label.md)
+
+### Dates
+
+Since I live in Europe, I will format any dates as dd/mm/yyyy. I'm sorry if this may confuse you

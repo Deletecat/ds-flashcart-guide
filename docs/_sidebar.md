@@ -7,3 +7,4 @@
 * [No label](no_label.md)
 - Troubleshooting
 * [How to troubleshoot](troubleshooting.md)
+* [Timebomb misconceptions](timebomb.md)

@@ -15,10 +15,9 @@ Almost every cart from 2014 to 2021 are the exact same. A DSTT clone with a time
 1. The website on the label should say 'r4isdhc.com' near the bottom
 2. The year number in the top right of the label should be a small red band with any year between 2014-2021 written on it
 3. Underneath the SDHC text, it should say 'Revolution for 3DS DSi XL/LL DSL DS'.
-4. The back of the cart should be a yellow pcb, with r4isdhc.com written above the contact pins. If this is any different, it is not a 2014-2021 r4isdhc.com cart
-5. To confirm the previous step, you can open the cart and look at the PCB, it should look just like the photo below:
+4. The back of the cart should be a yellow pcb, with WWW.R4iSDHC.COM written above the contact pins. If this is any different, it is not a 2014-2021 r4isdhc.com cart
 
-(IMAGE PLACEHOLDER)
+<img src="../_media/2014r4isdhc.com.png" height=322px width=600px alt="Front - Any year from 2014, Back - Must have a yellow pcb with WWW.R4iSDHC.COM written above the cotntact pins">
 
 If your cart matches this description, then it can safely use YSMenu. YSMenu is an alternative to the stock kernel for this cart. It is preferred as it does not have a timebomb! However, I have included instructions for the timebomb kernel. **Beware though that the timebomb will trigger on 03/09/2024**
 
@@ -33,7 +32,7 @@ So instead, follow this quick step by step to installing YSMenu on your cart:
 3. Go into the multicart folder, then into the R4i-SDHC YSMenu folder
 4. Extract (or copy) every file in this folder to the root of your micro SD card. In the end, the files on your micro SD card should look like this:
 
-<img src="../_media/r4i-sdhc.png" height=322px width=808px>
+<img src="../_media/r4i-sdhc.png" height=322px width=808px alt="Games folder, TTMenu folder, R4.dat, TTMenu.dat, YSMenu.nds">
 
 #### 2014-2021 Twilight Menu ++
 
@@ -41,11 +40,11 @@ See the instructions on the ds-homebrew wiki on how to install twilight menu: [h
 
 You should have YSMenu installed before proceeding. While game compatibility is getting better with nds-bootstrap for flashcarts, it's not fantastic. Fortunately, twilight menu ++ allows you to choose between YSMenu and nds-bootstrap. Meaning you can play supported DSiWare with nds-bootstrap, while maintaining YSMenu's game compatibility!
 
-This is also great for people who do not want the timebomb kernel, but think YSMenu looks ugly. Trust me, there have been many people with that complaint...
+This is also great for people who do not want the timebomb kernel, but think YSMenu looks ugly
 
 ### 2014-2021 Timebomb kernel
 
-Since the r4isdhc.com website is dead, you can find the original timebomb kernel from ds-homebrews flashcard archive: [https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip](https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip)
+Since the r4isdhc.com website is dead, you can find the original timebomb kernel from the flashcard archive: [https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip](https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip)
 
 Once you have downloaded the kernel, it is as simple as extracting it to the root of your micro SD card! As previously mentioned though, the timebomb will trigger on 03/09/2024
 
@@ -61,7 +60,8 @@ Remember what I said about 2014-2021 carts being the only carts (by r4isdhc.com)
 
 The cart should look like this:
 
-(Image placeholder)
+<img src="..\_media\r4isdhc.comnylrl.png" style="display:block;">
+Photo from Alin_B on GBATemp
 
 Make sure that this is what your cart looks like before proceeding.
 
@@ -73,7 +73,7 @@ Make sure that this is what your cart looks like before proceeding.
 
 ## Christmas Edition
 
-I find this cart funny, not with any weird software or anything, just the idea of a "Christmas Edition" makes me laugh a little.
+I find this cart funny, not with any weird software or anything, just the idea of a "Christmas Edition" makes me laugh a little
 
 The cart should look like this:
 

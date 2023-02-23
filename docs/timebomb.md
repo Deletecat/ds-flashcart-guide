@@ -24,7 +24,7 @@ Timebombs are built into the stock kernel of the carts that include them. If you
 
 Here is a picture of this super scary error:
 
-<img src="./_media/timebomb.jpg" style="display: block;">
+<img src="./_media/timebomb.jpg" style="display: block;" width="450px" height="500px">
 Photo from HomebrewJay on GBATemp
 
 But that's all it does, prevent the cart from loading after a specific date.

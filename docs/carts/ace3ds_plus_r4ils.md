@@ -23,9 +23,9 @@ It is missing some anti-piracy patches but nonetheless is good for game compatib
 1. Copy the kernel files to the root of your micro SD card
 
 On the root of your micro SD card, you should see:
-* _\rpg folder
-* _\DSMENU.dat file
-* _\DS_\MENU.dat file
+* _rpg folder
+* _DSMENU.dat file
+* \_DS_MENU.dat file
 
 ### Twilight menu ++
 

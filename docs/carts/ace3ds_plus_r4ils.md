@@ -3,7 +3,7 @@
 The list of carts that this page applies to can be found [here](https://gitHub.com/ds-homebrew/flashcard-archive), though I'll copy-paste them here too:
 * Ace3DS+
 * Ace3DS X
-* ### in 1 combo cart
+* \#\#\# in 1 combo cart
 * Unlabelled cart with a red PCB - Note: There are different types of unlabelled red cart, see here to differentiate between them: (URL PLACEHOLDER)
 * r4isdhc.com.cn carts
 * r4isdhc.hk 2020+ carts
@@ -36,3 +36,17 @@ You can install it by following these instructions:
 
 ## Patching your games
 
+There are two methods which can be used to patch your games, those are:
+* Applying AP patches using the nds ROM tool
+* Using a cheat database
+
+### Applying AP patches using the nds ROM tool
+
+You can find Retrogamefan's nds ROM took from here: (URL PLACEHOLDER)
+
+To patch your rom, do the following:
+1. Open the ROM in the tool
+1. Click Export, make sure that AP Patch is ticked
+1. Export your ROM!
+
+### Using a cheat database

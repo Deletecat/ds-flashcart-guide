@@ -62,6 +62,21 @@ A simple question, does your cart have a label with the manufacturer's website n
 - [Cart has a label without a website name](no_website.md)
 - [No label or website name on the cart](no_label.md)
 
-### Dates
+## Dates
 
-Since I live in Europe, I will format any dates as dd/mm/yyyy. I'm sorry if this may confuse you
+Dates will be formatted as DD/MM/YYYY
+
+## Cart Recommendations in 2023
+
+If you are looking to buy a DS Flashcart, I recommend looking at the DS Quick Start Guide over on r/flashcarts: [https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide](https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide)
+
+This will tell you what is and what isn't recommended to buy, it should help you pick out a cart that will work for you!
+
+> If you are using a DSi or 3DS, I wouldn't recommend buying a flashcard. Instead, install custom firmware following these guides:
+
+* [https://dsi.cfw.guide](https://dsi.cfw.guide) - This is a guide on installing Twilight Menu ++ and unlaunch onto your DSi
+* [https://3ds.hacks.guide](https://3ds.hacks.guide) - This is a guide on installing luma3ds and other necessary software for the 3DS - To play DS games, you should either download Twilight Menu ++, or an nds forwarder pack + nds-bootstrap.
+
+Not only that, installing custom firmware removes flashcard blocks meaning that if you have an old DS Flashcard that does not work on your console, it should bypass the block and allow you to use it again! This also lets you use the better two carts (Acekard 2i clones/DSOne clones) on the quick start guide as well if you still want to buy a cart
+
+Did I mention that custom firmware is free? :)

@@ -1,4 +1,4 @@
-# This page is for **r4isdhc.com** carts only
+# **r4isdhc.com**
 
 !> The domain for r4isdhc.com expired on the 28th of December, 2022. Which is why you cannot download your kernel from the official site.
 

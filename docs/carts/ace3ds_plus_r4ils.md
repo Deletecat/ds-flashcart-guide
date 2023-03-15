@@ -5,13 +5,13 @@ The list of carts that this page applies to can be found [here](https://gitHub.c
 * Ace3DS+
 * Ace3DS X
 * \#\#\# in 1 combo cart
-* Unlabelled cart with a red PCB - Note: There are different types of unlabelled red cart, see here to differentiate between them: (URL PLACEHOLDER)
 * r4isdhc.com.cn carts
 * r4isdhc.hk 2020+ carts
 * r4li.com carts
 * r4infinity.com 2
 * r4ixds.com 2014 white version
 * woodr4isdhc.com carts
+* Unlabelled cart with a red PCB - Note: There are different types of unlabelled red cart, see here to differentiate between them: (URL PLACEHOLDER)
 
 !> DO NOT install YSMenu on these carts. While some of them may appear similar to the timebomb clones from r4isdhc.com, none of these carts can use YSMenu
 
@@ -30,6 +30,20 @@ On the root of your micro SD card, you should see:
 * _rpg folder
 * _DSMENU.dat file
 * \_DS_MENU.dat file
+
+### AOS 2.13
+
+This kernel is just Ace3ds+ wood with bundled emulators. It is no longer maintained and so the emulators bundled with it could be outdated.
+
+I'd recommend using Twilight Menu ++ instead if you want the bundled emulators. If you still want to use AOS 2.13 instead, follow these instructions:
+
+1. Download the AOS 2.13 repack from here: [link](https://github.com/DS-Homebrew/flashcard-archive/raw/d1b3a804b9ce76540b3f94c2a916740f7435dc43/files/Ace3DS%2B_R4iLS/Ace3DS%2B_R4iLS_Wood_R4_1.62.7z) - This is from the flashcard archive's github history
+1. Extract the AOS 2.13 repack
+1. Copy the kernel files to the root of your micro SD card
+
+Another place to download this from is r4isdhc.com.cn - though this contains a pirated GBA bios and it does not include \_DS\_MENU.dat, meaning it won't work on some carts
+
+As mentioned before, if you want the emulators, I would suggest using Twilight Menu ++ instead as it is still maintained!
 
 ### Twilight menu ++
 

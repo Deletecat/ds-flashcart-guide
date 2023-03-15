@@ -26,15 +26,11 @@ I would suggest buying your micro SD cards in stores instead of marketplaces lik
 
 I say this because there are many fake micro SD cards online. "High Capacity" micro SD cards that are somehow cheaper than name brands. **DO NOT** trust these micro SD cards, they are a lower capacity than what they claim.
 
-Even if you could figure out the capacity, it's still not a good idea to trust them, I feel as though [this video](https://youtu.be/HFY5hd273lI) is great at explaining why. It was made a few years ago, **the information is still up-to-date in 2023**. In very rare cases, these fake storage devices contain malware. If it looks too good to be true, don't buy it.
+Even if you could figure out the capacity, it's still not a good idea to trust them, I feel as though [this video](https://youtu.be/HFY5hd273lI) is great at explaining why. It was made a few years ago, **the information is still up-to-date in 2023**
 
-Always stick to name brands like SanDisk, you can find name-brand SD cards on these marketplaces, but sometimes these can be fake. If you are going to order from a marketplace site, make sure that you are buying from an official seller
+Always stick to name brands like SanDisk. If you have to buy your micro SD card from a marketplace, make sure that you are buying from an official seller to reduce your chances of recieving a fake SD card. Really cheap micro SD cards can also fail easily so avoid any brands you have not heard of.
 
-!> Some stores *cough Walmart cough* have sold some of their marketplace items in store. Be careful, if it's cheap and high capacity, it's probably fake
-
-#### Formatting your SD card
-
-To format and test your micro SD card, I usually recommend the instructions found here: [https://dsi.cfw.guide/sd-card-setup.html](https://dsi.cfw.guide/sd-card-setup.html)
+!> Sometimes stores like Walmart will sell some of their marketplace items in-store, if its high capacity and cheap, do not trust it.
 
 ### Recommended software
 
@@ -58,8 +54,8 @@ Now we are onto the important section of this guide, identifying your cart.
 
 A simple question, does your cart have a label with the manufacturer's website name on it?
 
-- [Cart has a label with a website name](website.md)
-- [Cart has a label without a website name](no_website.md)
+- [The cart has a label with a website name](website.md)
+- [The cart has a label without a website name](no_website.md)
 - [No label or website name on the cart](no_label.md)
 
 ## Dates
@@ -68,7 +64,7 @@ Dates will be formatted as DD/MM/YYYY
 
 ## Cart Recommendations in 2023
 
-If you are looking to buy a DS Flashcart, I recommend looking at the DS Quick Start Guide over on r/flashcarts: [https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide](https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide)
+If you are looking to buy a DS Flashcart, I'd recommend looking at the DS Quick Start Guide over on r/flashcarts: [https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide](https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide)
 
 This will tell you what is and what isn't recommended to buy, it should help you pick out a cart that will work for you!
 

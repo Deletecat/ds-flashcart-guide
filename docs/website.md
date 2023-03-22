@@ -4,9 +4,11 @@ Now comes the time where you find your carts name on this table:
 
 |#-D|E-I|J-N|O-S|T-Z|
 |---|---|---|---|---|
-|   |   |   |[r4li.com](/carts/ace3ds_plus_r4ils)|[woodr4isdhc.com](/carts/ace3ds_plus_r4ils)|
-|   |   |   |[r4isdhc.com](/carts/r4isdhc.com)|   |
-|   |   |   |[r4isdhc.com.cn](/carts/ace3ds_plus_r4ils)|   |
+|   |   |   |[r4ill-net.com](/carts/dstti_clones)|  |
+|   |   |[ndstt.com](/carts/dstti_clones)|[r4li.com](/carts/ace3ds_plus_r4ils)|[woodr4isdhc.com](/carts/ace3ds_plus_r4ils)|
+|   |   |   |[r4ll-net.com](/carts/dstti_clones)|   |
+|[dstt-adv.com](/carts/dstti_clones)|[ndstt.net](/carts/dstti_clones)|   |[r4isdhc.com](/carts/r4isdhc.com)|   |
+|   |   |[ndstti.cn](/carts/dstti_clones)|[r4isdhc.com.cn](/carts/ace3ds_plus_r4ils)|   |
 |   |   |   |   |   |
 
 
@@ -18,5 +20,5 @@ I would suggest doing the following if this is the case:
 
 * Open an issue on the github page for this site (Click the octocat on the top-right corner!)
 * Make a post in the [r/flashcarts subreddit](https://reddit.com/r/flashcarts)
-* Message me on reddit ([u/kitcat976](https://reddit.com/u/kitcat976)) though I cannot guarantee that I can help you, it would be better to post in the subreddit! You can also message me on [Mastodon](https://mas.to/@deletecat)!
+* Message me on mastodon: [@deletecat@mas.to](https://mas.to/@deletecat) I prefer mastodon DMs though you can also message me on reddit: [u/kitcat976](https://www.reddit.com/u/kitcat976)
 * I'll update this with other people/places you can go to get help in the future! If you would like to help contribute, let me know :)

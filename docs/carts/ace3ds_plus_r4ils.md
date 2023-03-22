@@ -27,9 +27,18 @@ It is missing some anti-piracy patches but nonetheless is good for game compatib
 
 On the root of your micro SD card, you should see:
 
-* _rpg folder
-* _DSMENU.dat file
-* \_DS_MENU.dat file
+* \_rpg folder
+* \_DSMENU.dat file
+* \_DS\_MENU.dat file
+
+### Twilight menu ++
+
+This cart supports twilight menu ++!
+You can install it by following these instructions: [https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard](https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard)
+
+While I don't really use twilight menu ++ on my flashcards, if you want to play some [*supported* dsiware](https://github.com/DS-Homebrew/TWiLightMenu/blob/master/universal/include/compatibleDSiWareMap.h), it's definitely an option to look into! Best part about Twilight menu ++ is that it is in active development, meaning that more dsiware will be supported in the future!
+
+Twilight menu ++ also bundles in some emulators for consoles if that interests you
 
 ### AOS 2.13
 
@@ -44,15 +53,6 @@ I'd recommend using Twilight Menu ++ instead if you want the bundled emulators. 
 Another place to download this from is r4isdhc.com.cn - though this contains a pirated GBA bios and it does not include \_DS\_MENU.dat, meaning it won't work on some carts
 
 As mentioned before, if you want the emulators, I would suggest using Twilight Menu ++ instead as it is still maintained!
-
-### Twilight menu ++
-
-This cart supports twilight menu ++!
-You can install it by following these instructions: [https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard](https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard)
-
-While I don't really use twilight menu ++ on my flashcards, if you want to play some [*supported* dsiware](https://github.com/DS-Homebrew/TWiLightMenu/blob/master/universal/include/compatibleDSiWareMap.h), it's definitely an option to look into! Best part about Twilight menu ++ is that it is in active development, meaning that more dsiware will be supported in the future!
-
-Twilight menu ++ also bundles in some emulators for consoles if that interests you
 
 ## Patching your games
 

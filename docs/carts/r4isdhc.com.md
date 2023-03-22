@@ -44,7 +44,7 @@ This is also great for people who do not want the timebomb kernel, but think YSM
 
 ### 2014-2021 Timebomb kernel
 
-Since the r4isdhc.com website is dead, you can find the original timebomb kernel from the flashcard archive: [https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip](https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip)
+Since the r4isdhc.com website is dead, you can find the original timebomb kernel from the flashcard archive: [https://github.com/DS-Homebrew/flashcard-archive/raw/archive/files/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip](https://github.com/DS-Homebrew/flashcard-archive/raw/archive/files/YSMenu/r4isdhc.com/r4isdhc.com_2014-2020_DEMON_4.0b.zip)
 
 Once you have downloaded the kernel, it is as simple as extracting it to the root of your micro SD card! As previously mentioned though, the timebomb will trigger on 03/09/2024
 
@@ -54,7 +54,7 @@ Once you have downloaded the kernel, it is as simple as extracting it to the roo
 
 ## RTS Lite with no year number
 
-Remember what I said about 2014-2021 carts being the only carts (by r4isdhc.com) to use YSMenu. Well, that's not 100% true. This cart will use YSMenu too, but not the same version of YSMenu the timebomb carts use.
+Remember what I said about 2014-2021 carts being the only carts (by r4isdhc.com) to use YSMenu. Well, that's not 100% true. This cart will use YSMenu too!
 
 !> This section does **not** include the RTS Lite "New" carts, see the previous section on how to set those carts up.
 
@@ -66,9 +66,9 @@ Photo from Alin_B on GBATemp
 Make sure that this is what your cart looks like before proceeding.
 
 1. Download Retrogamefan's multicart update from gbatemp: [https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/)
-2. Open or Extract the multicart's .7z archive
+2. Extract the multicart's .7z archive to your downloads folder
 3. Go into the multicart folder, then into the DSTTi Clone YSMenu folder
-4. Extract (or copy) every file in this folder to the root of your micro SD card.
+4. Copy every file in this folder to the root of your micro SD card.
 5. Make a copy of TTMenu.dat, then rename the copy to R4.dat
 
 ## Christmas Edition
@@ -82,11 +82,11 @@ The cart should look like this:
 Make sure that this is what your cart looks like before proceeding.
 
 1. Download your kernel from the flashcard archive: [https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_Christmas_Edition_Limited_SDHC_Kernel_1.17B.zip](https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_Christmas_Edition_Limited_SDHC_Kernel_1.17B.zip)
-2. Extract the kernel to the micro SD card.
+2. Extract the kernel to the micro SD card
 3. Next, download Retrogamefan's multicart update from gbatemp: [https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/)
-4. Open or Extract the multicart's .7z archive
+4. Extract the multicart's .7z archive to your downloads folder
 5. Go into the multicart folder, then into the R4 Clone YSMenu folder.
-6. Extract (or copy) every file in this folder to the root of your micro SD card
+6. Copy every file in this folder to the root of your micro SD card
 7. When you launch your cart, open YSMenu.nds!
 
 You can use the "Christmas" kernel as is, but YSMenu is newer which is why I suggest using it. Every time you boot your cart, you will have to open YSMenu.nds to boot into YSMenu.

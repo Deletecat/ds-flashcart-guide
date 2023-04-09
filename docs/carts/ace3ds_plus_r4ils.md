@@ -11,12 +11,13 @@ The list of carts that this page applies to can be found [here](https://gitHub.c
 * r4infinity.com 2
 * r4ixds.com 2014 white version
 * woodr4isdhc.com carts
+* (possibly) DSTTi.cc - Behaves like an Ace3ds+ where it only activates when an SD card is inserted, though it has not been tested with the ace3ds+ kernel. IF you have this cart, please open an issue and let me know if it works!
 * Unlabelled cart with a red PCB - Note: There are different types of unlabelled red cart, see here to differentiate between them: (URL PLACEHOLDER)
 
 !> DO NOT install YSMenu on these carts. While some of them may appear similar to the timebomb clones from r4isdhc.com, none of these carts can use YSMenu
 
-These carts will use the Ace3ds+ wood 1.62, this is not r4 wood 1.62.
-Ace3ds+ wood 1.62 is based on an old version of R4 wood, it's not based on R4 wood 1.62 as the name might suggest.
+These carts will use the Ace3ds+ wood 1.62 kernel, this is not R4 wood 1.62.
+Ace3ds+ wood is based on an old version of R4 wood, it's not based on R4 wood 1.62 as the name might suggest.
 It is missing some anti-piracy patches but nonetheless is good for game compatibility!
 
 ## Setup (Ace3ds+ Wood 1.62)
@@ -38,16 +39,16 @@ You can install it by following these instructions: [https://wiki.ds-homebrew.co
 
 While I don't really use twilight menu ++ on my flashcards, if you want to play some [*supported* dsiware](https://github.com/DS-Homebrew/TWiLightMenu/blob/master/universal/include/compatibleDSiWareMap.h), it's definitely an option to look into! Best part about Twilight menu ++ is that it is in active development, meaning that more dsiware will be supported in the future!
 
-Twilight menu ++ also bundles in some emulators for consoles if that interests you
+Twilight menu ++ also bundles in some emulators for other consoles, see the list here: []()
 
 ### AOS 2.13
 
 This kernel is just Ace3ds+ wood with bundled emulators. It is no longer maintained and so the emulators bundled with it could be outdated.
 
-I'd recommend using Twilight Menu ++ instead if you want the bundled emulators. If you still want to use AOS 2.13 instead, follow these instructions:
+I'd recommend using Twilight Menu ++ instead if you want the bundled emulators. If you still want to use AOS 2.13, follow these instructions:
 
 1. Download the AOS 2.13 repack from here: [link](https://github.com/DS-Homebrew/flashcard-archive/raw/d1b3a804b9ce76540b3f94c2a916740f7435dc43/files/Ace3DS%2B_R4iLS/Ace3DS%2B_R4iLS_Wood_R4_1.62.7z) - This is from the flashcard archive's github history
-1. Extract the AOS 2.13 repack
+1. Extract it
 1. Copy the kernel files to the root of your micro SD card
 
 Another place to download this from is r4isdhc.com.cn - though this contains a pirated GBA bios and it does not include \_DS\_MENU.dat, meaning it won't work on some carts

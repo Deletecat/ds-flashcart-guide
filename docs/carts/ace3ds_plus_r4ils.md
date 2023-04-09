@@ -34,12 +34,12 @@ On the root of your micro SD card, you should see:
 
 ### Twilight menu ++
 
-This cart supports twilight menu ++!
+This cart supports twilight menu ++
 You can install it by following these instructions: [https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard](https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard)
 
 While I don't really use twilight menu ++ on my flashcards, if you want to play some [*supported* dsiware](https://github.com/DS-Homebrew/TWiLightMenu/blob/master/universal/include/compatibleDSiWareMap.h), it's definitely an option to look into! Best part about Twilight menu ++ is that it is in active development, meaning that more dsiware will be supported in the future!
 
-Twilight menu ++ also bundles in some emulators for other consoles, see the list here: []()
+Twilight menu ++ also bundles in some emulators for other consoles, see the list here: [https://wiki.ds-homebrew.com/ds-index/emulators](https://wiki.ds-homebrew.com/ds-index/emulators)
 
 ### AOS 2.13
 

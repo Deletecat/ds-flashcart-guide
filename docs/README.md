@@ -70,8 +70,8 @@ This will tell you what is and what isn't recommended to buy, it should help you
 
 > If you are using a DSi or 3DS, I wouldn't recommend buying a flashcard. Instead, install custom firmware following these guides:
 
-* [https://dsi.cfw.guide](https://dsi.cfw.guide) - This is a guide on installing Twilight Menu ++ and unlaunch onto your DSi
-* [https://3ds.hacks.guide](https://3ds.hacks.guide) - This is a guide on installing luma3ds and other necessary software for the 3DS - To play DS games, you should either download Twilight Menu ++, or an nds forwarder pack + nds-bootstrap.
+- [https://dsi.cfw.guide](https://dsi.cfw.guide) - This is a guide on installing Twilight Menu ++ and unlaunch onto your DSi
+- [https://3ds.hacks.guide](https://3ds.hacks.guide) - This is a guide on installing luma3ds and other necessary software for the 3DS - To play DS games, you should either download Twilight Menu ++, or an nds forwarder pack + nds-bootstrap.
 
 Not only that, installing custom firmware removes flashcard blocks meaning that if you have an old DS Flashcard that does not work on your console, it should bypass the block and allow you to use it again! This also lets you use the better two carts (Acekard 2i clones/DSOne clones) on the quick start guide as well if you still want to buy a cart
 

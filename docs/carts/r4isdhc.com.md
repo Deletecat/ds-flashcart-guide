@@ -28,9 +28,9 @@ It is recommended to use YSMenu on this cart as it does not have a timebomb. The
 So instead, follow this quick step by step to installing YSMenu on your cart:
 
 1. Download Retrogamefan's multicart update from gbatemp: [https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/)
-2. Open or Extract the multicart's .7z archive
+2. Extract the multicart's .7z archive
 3. Go into the multicart folder, then into the R4i-SDHC YSMenu folder
-4. Extract (or copy) every file in this folder to the root of your micro SD card. In the end, the files on your micro SD card should look like this:
+4. Copy every file in this folder to the root of your micro SD card
 
 <img src="../_media/r4i-sdhc.png" height=322px width=808px alt="Games folder, TTMenu folder, R4.dat, TTMenu.dat, YSMenu.nds">
 
@@ -51,6 +51,15 @@ Once you have downloaded the kernel, it is as simple as extracting it to the roo
 ## 2013 Carts / Dual Core with no year number / "NEW" Carts
 
 !> These carts will brick if you attempt to use YSMenu on them, this has happened before many times which is why it is important to correctly identify your carts
+
+This is what the carts should look like:
+
+PLACEHOLDER FOR IMAGE
+
+You should use BL2CK if your cart looks like the carts above:
+
+1. Download BL2CK from here: [https://github.com/DS-Homebrew/flashcard-archive/raw/archive/files/BL2CK/BL2CK_1.30.4.zip](https://github.com/DS-Homebrew/flashcard-archive/raw/archive/files/BL2CK/BL2CK_1.30.4.zip)
+1. Extract the Bl2CK zip to your micro SD card!
 
 ## RTS Lite with no year number
 
@@ -81,7 +90,7 @@ The cart should look like this:
 
 Make sure that this is what your cart looks like before proceeding.
 
-1. Download your kernel from the flashcard archive: [https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_Christmas_Edition_Limited_SDHC_Kernel_1.17B.zip](https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_Christmas_Edition_Limited_SDHC_Kernel_1.17B.zip)
+1. Download the "Christmas" kernel from the flashcard archive: [https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_Christmas_Edition_Limited_SDHC_Kernel_1.17B.zip](https://flashcard-archive.ds-homebrew.com/YSMenu/r4isdhc.com/r4isdhc.com_Christmas_Edition_Limited_SDHC_Kernel_1.17B.zip)
 2. Extract the kernel to the micro SD card
 3. Next, download Retrogamefan's multicart update from gbatemp: [https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/)
 4. Extract the multicart's .7z archive to your downloads folder

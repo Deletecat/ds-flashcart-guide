@@ -1,4 +1,4 @@
-<h1>DS Flashcard guide</h1>
+# DS Flashcard guide
 
 Welcome to the DS Flashcard guide! This is a project started by me, [Deletecat](https://deletecat.com), which should *hopefully* help to set up your DS Cart to play games and use Homebrew!
 

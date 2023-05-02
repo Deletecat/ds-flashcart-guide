@@ -14,8 +14,8 @@
 Setting up YSMenu on these carts is as simple as:
 
 1. Downloading Retrogamefan's multicart update from here: [https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download)
-1. Extract it to your downloads folder
-1. Go into the multicart folder, then go into the DSTTi Clone YSMenu folder
+1. Extract it
+1. Go into the DSTTi Clone YSMenu folder
 1. Copy all of the files in this folder to your micro sd card
 
 ## TTMenu
@@ -23,8 +23,8 @@ Setting up YSMenu on these carts is as simple as:
 You can also use TTMenu on these carts, I haven't used this before, but it's an option for those who want it:
 
 1. Downloading Retrogamefan's multicart update from here: [https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download)
-1. Extract it to your downloads folder
-1. Go into the multicart folder, then go into the DSTTi Clone YSMenu folder
+1. Extract it
+1. Go into the DSTTi Clone YSMenu folder
 1. Copy all of the files in this folder to your micro sd card
 
 ### Twilight Menu ++

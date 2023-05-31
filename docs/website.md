@@ -19,5 +19,4 @@ I would suggest doing the following if this is the case:
 
 * Open an issue on the github page for this site (Click the octocat on the top-right corner!)
 * Make a post in the [r/flashcarts subreddit](https://reddit.com/r/flashcarts) where many people can help determine what your cart uses!
-* Message me on mastodon: [@deletecat@mas.to](https://mas.to/@deletecat) I prefer mastodon DMs though you can also message me on reddit: [u/kitcat976](https://www.reddit.com/u/kitcat976)
-* I'll update this with other people/places you can go to get help in the future! If you would like to help contribute, let me know :) 
+* Message me on mastodon: [@deletecat@mas.to](https://mas.to/@deletecat) 

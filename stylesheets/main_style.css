@@ -1,0 +1,36 @@
+body {
+    width: 67.5%;
+    margin:auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.warning {
+    border:2px;
+    border-style:double;
+    border-color:darkred;
+    border-radius:6px;
+    background-color:crimson;
+    padding:5px;
+    margin:5px;
+    display:inline-block;
+    color:white;
+}
+
+.sd-notice{
+    border:2px;
+    border-style:double;
+    border-color:darkblue;
+    border-radius:6px;
+    background-color:darkcyan;
+    padding:5px;
+    margin:5px;
+    display:inline-block;
+    color:white;
+}
+
+.button {
+    background-color:black;
+    padding:10px;
+    text-align:center;
+    color:white;
+}

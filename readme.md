@@ -1,15 +1,10 @@
-# A guide to setting up your DS Flashcart, more commonly known as R4 cards!
+# A guide for setting up your DS Flashcart - more commonly known as R4 Carts
 
-### I do not store the files for each cart, instead I have linked to the ds-homebrew flashcard archive
+I initially made this site with docsify but I made the decision to switch to normal HTML+CSS
 
-This guide will have instructions on how to identify and setup your DS Flashcard. As well as this, there will also be some troubleshooting steps should something not work correctly! 
+This site mostly exists now so that I can be less active on Reddit, with the api changes coming soon, I will not be able to avoid using their mobile app (which sucks, badly).
+I am hoping to link people to this site to get their carts setup!
 
-In some cases, direct download links to your carts kernel may not be available for licensing reasons (YSMenu)
+## Note: This site will not include download links to pirated ROMs
 
-I am not responsible for any damage that may occur to your flashcard. Using the wrong kernel can also brick your cart. I can also make mistakes, though I have tried my best to avoid this
-
-If you notice any spelling errors, issues with the guide, or wish to add translations; please open an issue or pull request!
-
-I am using Docsify for this site, it may not be the best choice, but I'm giving it a go anyways!
-
-# This is a work in progress, as of right now, it is not ready to use
+Dump your games yourself, or consider trying some homebrew roms instead! 

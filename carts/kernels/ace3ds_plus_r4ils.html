@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="_media/favicon.ico">
+    <link rel="stylesheet" href="../../stylesheets/main_style.css">
+    <title>DS Flashcard Guide</title>
+</head>
+<body>
+    <h4><a href="index.html">home</a></h4>
+    <h1>Ace3ds+ / R4iLS / clones</h1>
+    <p>The list of carts that this page applies to can be found <a href="https://gitHub.com/ds-homebrew/flashcard-archive">here</a>, though I’ll copy-paste them here too:</p>
+    
+    <ul>
+        <li>Ace3DS+</li>
+        <li>Ace3DS X</li>
+        <li>### in 1 combo cart</li>
+        <li>r4isdhc.com.cn carts</li>
+        <li>r4isdhc.hk 2020+ carts</li>
+        <li>r4li.com carts</li>
+        <li>r4infinity.com 2</li>
+        <li>r4ixds.com 2014 white version</li>
+        <li>woodr4isdhc.com carts</li>
+        <li>Unlabeled red carts, they should look like this in the product listing: <a href="https://i.ebayimg.com/images/g/p9wAAOSwSwBkXaql/s-l1600.jpg">ebayimg</a> 
+            (This won't work with the similar looking timebomb clones)</li>
+    </ul>
+
+    <p class="warning">
+        !&gt; DO NOT install YSMenu on these carts. 
+        While some of them may appear similar to the timebomb clones from r4isdhc.com, none of these
+        carts can use YSMenu as of now
+    </p>
+    <p>
+        These carts will use the Ace3ds+ wood 1.62 kernel. 
+        Ace3ds+ wood is based on an old version of R4 wood, it’s not based on R4 wood 1.62 as the name might suggest. 
+        It is missing some anti-piracy patches but nonetheless is good for game compatibility!
+    </p>
+
+    <h2 id="setup-ace3ds-wood-1.62">Setup (Ace3ds+ Wood 1.62)</h2>
+    <ol>
+        <li>Download Ace3ds+ wood from here: <a
+        href="https://flashcard-archive.ds-homebrew.com/Ace3DS+_R4iLS/Ace3DS+_R4iLS_Wood_R4_1.62.7z">https://flashcard-archive.ds-homebrew.com/Ace3DS+_R4iLS/Ace3DS+_R4iLS_Wood_R4_1.62.7z</a></li>
+        <li>Extract the Ace3ds+ wood archive</li>
+        <li>Copy the kernel files to the root of your micro SD card</li>
+    </ol>
+
+    <h3>Twilight menu ++</h3>
+    <p>This cart supports twilight menu ++ You can install it by following
+    these instructions: <a
+    href="https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard">https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard</a></p>
+    <p>While I don’t really use twilight menu ++ on my flashcards, if you
+    want to play some <a
+    href="https://github.com/DS-Homebrew/TWiLightMenu/blob/master/universal/include/compatibleDSiWareMap.h"><em>supported</em>
+    dsiware</a>, it’s definitely an option to look into! Best part about
+    Twilight menu ++ is that it is in active development, meaning that more
+    dsiware will be supported in the future!</p>
+    <p>Twilight menu ++ also bundles in some emulators for other consoles,
+    see the list here: <a
+    href="https://wiki.ds-homebrew.com/ds-index/emulators">https://wiki.ds-homebrew.com/ds-index/emulators</a></p>
+    <h3>AOS 2.13</h3>
+    <p>This kernel is just Ace3ds+ wood with bundled emulators. It is no
+    longer maintained and so the emulators bundled with it could be
+    outdated.</p>
+    <p>I’d recommend using Twilight Menu ++ instead if you want the bundled
+    emulators. If you still want to use AOS 2.13, follow these
+    instructions:</p>
+    <ol>
+        <li>Download the AOS 2.13 repack from here: <a
+        href="https://github.com/DS-Homebrew/flashcard-archive/raw/d1b3a804b9ce76540b3f94c2a916740f7435dc43/files/Ace3DS%2B_R4iLS/Ace3DS%2B_R4iLS_Wood_R4_1.62.7z">link</a>
+        - This is from the flashcard archive’s github history</li>
+        <li>Extract it</li>
+        <li>Copy the kernel files to the root of your micro SD card</li>
+    </ol>
+    <p>Another place to download this from is r4isdhc.com.cn - though this
+    contains a pirated GBA bios and it does not include _DS_MENU.dat,
+    meaning it won’t work on some carts</p>
+    <p>As mentioned before, if you want the emulators, I would suggest using
+    Twilight Menu ++ instead as it is still maintained!</p>
+    <h2>Patching your games</h2>
+    <p>There are two methods which can be used to patch your games, those
+    are:</p>
+    <ul>
+        <li>Applying AP patches using the nds ROM tool</li>
+        <li>Using a cheat database</li>
+    </ul>
+    <h3>Applying AP patches
+    using the nds ROM tool</h3>
+    <p>
+        You can find NDS Scene tool from here: <a href="https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/">GBATemp Link</a>.
+    </p>
+    <p>To patch your rom, do the following:</p>
+    <ol>
+        <li>Open the ROM tool (Do not update if it prompts you to)</li>
+        <li>Open the ROM in the tool by clicking the three dots, then select your rom. Or drag and drop your ROM into the tool</li>
+        <li>Click Export, make sure that ‘Apply AP Patch’ is ticked. If there is no AP patch available for your rom, this will not be an option.</li>
+        <li>Export your ROM!</li>
+    </ol>
+    
+    <h3>Using a cheat database</h3>
+    <p>
+        You can use cheats to enable AP patches without having to use the ROM tool. 
+        My go to cheat database is Deadskullzjr’s cheat database: <a href="https://gbatemp.net/threads/deadskullzjrs-nds-i-cheat-databases.488711/">GBATemp Link</a>
+    </p>
+
+    <p>To set it up on this cart, follow these steps:</p>
+    <ol>
+        <li>Download usrcheat.dat from the bitbucket link in the gbatemp post</li>
+        <li>Put it into the /_rpg/cheats/ folder of your micro SD card, replace/overwrite if prompted</li>
+        <li>On the cart side, hover over the ROM you need to enable the patch for, then press Y then X to open the cheats menu</li>
+        <li>Select the AP patch by pressing A, then press X to save your selection</li>
+        <li>Launch your game and enjoy!</li>
+    </ol>
+    <h4><a href="index.html">home</a></h4>
+</body>
+</html>

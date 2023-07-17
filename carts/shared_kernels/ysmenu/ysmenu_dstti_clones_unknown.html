@@ -10,30 +10,33 @@
 </head>
 <body>
     <h4><a href="../../../index.html">home</a></h4>
-    <h1>DSTT/i Clones - R4i.TP</h1>
-    <p>These DSTTi clones boot from R4i.TP, they will use YSMenu.</p>
+    <h1>DSTT/i Clones - Unknown boot files</h1>
+    <p>
+        If you have been linked to this page, you have a DSTT/i clone - but I do not know which file it will boot from.
+        Follow the instructions down below to figure out which boot file your cart may use.
+        Once you have figured that out, please <a href="https://github.com/Deletecat/ds-flashcard-guide">open an issue on GitHub</a> so that we can link to the correct page in the future!
+    </p>
     <p class="warning">Do not use the original TTMenu on these carts.</p>
-    <h2>List of supported carts:</h2>
-    <ul>
-        <li>all carts from r4i-dshc.com</li>
-        <li>all carts from r4i-ndsill.com</li>
-        <li>all carts from r4i-yes.com</li>
-        <li>all carts from r4i-3ds.com</li>
-    </ul>
 
     <h2>YSMenu</h2>
-    <p>Setting up YSMenu on these carts is as simple as:</p>
     <ol>
         <li>Downloading Retrogamefan’s multicart update from here: <a href="https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download">https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download</a></li>
         <li>Extract it using your preferred file extractor</li>
         <li>Go into the DSTTi Clone YSMenu folder</li>
         <li>Copy all of the files in this folder to the root of your micro SD card</li>
-        <li>Make a copy of TTMenu.dat, then rename it to R4i.TP</li>
+        <li>Make 6 copies of TTMenu.dat and rename them to:</li>
+        <ul>
+            <li>R4i.TP</li>
+            <li>iLL.iL</li>
+            <li>config</li>
+            <li>3DSCARD.dat</li>
+            <li>R4i.3DS</li>
+            <li>R4i.PK</li>
+        </ul>
+        <li>if it boots, delete the files one by one until the cart stops booting into YSMenu. That will be the correct boot file.</li>
+        <li>Delete the other boot files (keep TTMenu.dat), then create a copy of TTMenu.dat with the name of the correct boot file.</li>
     </ol>
-
-    <h3>Twilight Menu ++</h3>
-    <p>Many carts on this list support twilight menu ++; see here for more details: <a href="https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard">DS-Homebrew Wiki</a></p>
-
+    <p><b>If the cart still didn't boot, open up a GitHub issue.</b></p>
     <h2>If your cart is not working as expected, see the troubleshooting page here: <a href="../../../troubleshooting.html">Troubleshooting</a></h2>
     <h4><a href="../../../index.html">home</a></h4>
 </body>

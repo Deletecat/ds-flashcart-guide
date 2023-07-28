@@ -15,16 +15,16 @@
         which should <i>hopefully</i> help to set up your DS flashcard to play games and use Homebrew!
     </p>
 
-    <p>If you would like to help contribute to this site, <a href="https://github.com/Deletecat/ds-flashcart-guide" id="Github">click here to visit the Github Repository for the site!</a></p>
+    <p>If you would like to help contribute, <a href="https://github.com/Deletecat/ds-flashcart-guide" id="Github">click here to visit the Github Repository for the site!</a></p>
     
     <h2>Getting started</h2>
     <p>
-        To get started, all you need is your flashcard, <a href="https://flashcarts.deletecat.com/#sd-cards">a compatible micro SD card</a>, and a few minutes of your time. 
+        To get started, all you need is your flashcard, <a href="https://flashcarts.deletecat.com/#sd-cards">a compatible microSD card</a>, and a few minutes of your time. 
         These carts do not take a long time to set up, though with some carts you may have to try a few kernels until you find one that works!
     </p>
 
     <p> 
-        If you are looking to buy a cart, see r/flashcarts' quick start guide: <a href="https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide">https://www.reddit.com/r/flashcarts/wiki/ds-quick-start-guide</a> - 
+        If you are looking to buy a cart, see the flashcart wiki's quick start guide here: <a href="https://flashcarts.net/ds-quick-start-guide">flashcarts.net</a> - 
         make sure to read through all of the cart descriptions to choose the right one for your console.
         <br/><br/><i>If you are on a DSi or 3DS, consider installing custom firmware (CFW) instead:</i>
         <ul>
@@ -34,17 +34,17 @@
         <i>If you get an error message (An error has occurred...) when trying to use your cart, this should fix it! CFW is free and easy to install, I would highly recommend doing so</i>
     </p>
     <h3 id="sd-cards">SD Cards</h3>
-    <p>Most DS Carts are SDHC compatible, there are some carts that only support up to 2 GB micro SD cards - like the original R4</p>
-    <p>For carts that only support 2 GB micro SD cards, you should see this message on their page:</p>
+    <p>Most DS flashcarts are SDHC compatible, there are some carts that only support up to 2GB microSD cards - like the original R4</p>
+    <p>For carts that only support 2GB microSD cards, you should see this message on their page:</p>
 
     <blockquote>
-        <p class="sd-notice">This cart only supports micro SD cards up to 2 GB in capacity</p>
+        <p class="sd-notice">This cart only supports microSD cards up to 2GB in capacity</p>
     </blockquote>
 
     <p>
-        Your micro SD card has to be formatted as Fat32 in order for it to work on these DS carts. 
-        Carts that do not have the 2 GB limit can use micro SD cards that are up to 2 TB in capacity when formatted correctly.
-        Though, personally, anything above 32 GB is excessive. DS ROMs are small, so you do not need massive micro SD cards
+        DS Flashcarts are usually picky about the way their microSD cards are formatted. Here is a guide on how to properly format the microSD card for use in these flashcarts:
+        <a href="https://dsi.cfw.guide/sd-card-setup.html">dsi.cfw.guide/sd-card-setup.html</a><br/>
+        On flashcarts that do not have a 2GB limit, you can use up to 2TB capacity microSD cards. This is quite excessive though, DS ROMs are small so we would recommend 32GB microSDHC cards instead.
     </p>
 
     <p class="warning">! &gt; Warning about Fake/Cheap Micro SD Cards (or storage in general)</p>
@@ -55,29 +55,21 @@
         “High Capacity” micro SD cards that are somehow cheaper than name brands. 
         <strong>DO NOT</strong> trust these micro SD cards, they are a lower capacity than what they claim. 
         You might already know this, but others do not. 
-        I've seen enough people try to use "512"GB micro SD cards to put out this notice.
     </p>
-
     <p>
         Even if you could figure out the capacity, it’s still not a good idea to trust them, I feel as though <a href="https://youtu.be/HFY5hd273lI">this video</a> is great at explaining why. 
         It was made a few years ago, <strong>the information is still up-to-date in 2023!</strong>
     </p>
-
     <p>
-        Always stick to name brands like SanDisk. 
+        Always stick to big name brands like SanDisk. 
         If you have to buy your micro SD card from a marketplace,  make sure that you are buying from an official seller to reduce your chances of receiving a fake SD card.
-        Really cheap micro SD cards can also fail easily so avoid any brands you have not heard of.
     </p>
-
     <p class="warning">
-        ! &gt; Sometimes stores like Walmart will sell some of their
-        marketplace items in-store, if its high capacity and cheap, do not trust
-        it.
+        ! &gt; Sometimes stores like Walmart will sell some of their marketplace items in-store, if its high capacity and very cheap, do not trust it.
     </p>
-
     <p>
-        If you are buying a cart, don't buy one with an included/pre-loaded micro SD card.
-        These SD cards are made to the lowest standards possible, they will fail on you within weeks and all of your data will be gone.
+        If you are buying a flashcart, don't buy one with an included/pre-loaded microSD card.
+        These SD cards are made to be cheap, they will fail on you within weeks and all of your data will be gone.
         They are also more expensive than buying the cart on it's own. Save yourself the hassle and buy them on their own.
     </p>
     <h3>Recommended software</h3>
@@ -98,13 +90,9 @@
 
     <p>
         If you are using Linux, most of the time a file extractor will be included with your distro, I’d recommend using that instead.
-        The built in .zip extractor in Windows appears to work well, feel free to use that if your kernel is in a .zip archive.
     </p>
     <p class="warning">
-        ! &gt; I do not recommend using WinRAR - 
-        if you are having issues with your kernel, use one of the other options instead.
-        <br/>I also do not recommend using Archive Utility, the stock file extractor on Mac OS -
-        it has caused many issues with extracting kernel files as I have found when trying to help Mac OS users
+        ! &gt; I do not recommend using WinRAR or Archive Utility for extracting your kernel files.
     </p>
 
     <h3>Piracy Disclaimer</h3>
@@ -113,21 +101,14 @@
         This site is intended to set up your DS Flashcard, not to download ROMs. 
         There are other sites dedicated to pirated ROMs. 
     </p>
-    <h4>Carts with included games</h4>
-    <p>
-        I don't recommend buying carts with included games.
-        Not because the sellers are pirating ROMs to make a profit off of them.
-        But because they come with shit SD cards (and are usually more expensive compared to carts without an SD card). 
-        See <a href="#sd-cards">SD Cards</a> for more information.
-    </p>
 
     <h2>Troubleshooting</h2>
     <p>If you are having issues with your cart, see the troubleshooting steps here: <a href="troubleshooting.html">Troubleshooting page</a></p>
 
     <h2>Timebomb Misconceptions</h2>
     <p>
-        People tend to think that timebombs are some big scary malware which will brick your console and the cart when activated - that was a bit of an exaggeration but you get the point.
-        In reality, they aren't harmful at all. You can read about them here: <a href="timebomb.html">Timebomb Misconceptions</a>
+        Timebombs aren't as harmful as some people make them out to be. 
+        You can read about them here: <a href="timebomb.html">Timebomb Misconceptions</a>
     </p>
 
     <p class="warning">

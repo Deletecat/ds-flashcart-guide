@@ -18,10 +18,10 @@ body {
 
 .sd-notice{
     border:2px;
-    border-style:double;
-    border-color:darkblue;
+    border-style:dashed;
+    border-color:violet;
     border-radius:6px;
-    background-color:darkcyan;
+    background-color:navy;
     padding:5px;
     margin:5px;
     display:inline-block;

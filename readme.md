@@ -21,3 +21,5 @@ You can ask for help in these places:
 * Lemmy (!flashcarts@lemmy.dbzer0.com) - I moved here after deleting my reddit account, feel free to post here, although it's not as big as the next option;
 * Reddit (r/flashcarts) - This subreddit has a fairly big community, there will likely be someone who can help!
 * Github Issues - Make an issue here!
+
+# This project is on hold until further notice - I might come back to it in the future but for now it's sitting in limbo

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="_media/favicon.ico">
+    <link rel="stylesheet" href="stylesheets/main_style.css">
+    <title>DS Flashcard Guide</title>
+</head>
+<body>
+    <h1>DS Flashcard guide</h1>
+    <p>
+        Welcome to the DS Flashcard guide! This is a project started by me, <a href="https://deletecat.com">Deletecat</a>, 
+        which should <i>hopefully</i> help to set up your DS flashcard to play games and use Homebrew!
+    </p>
+
+    <p>If you would like to help contribute, <a href="https://github.com/Deletecat/ds-flashcart-guide" id="Github">click here to visit the Github Repository for the site!</a></p>
+    
+    <h2>Getting started</h2>
+    <p>
+        To get started, all you need is your flashcard, <a href="https://flashcarts.deletecat.com/#sd-cards">a compatible microSD card</a>, and a few minutes of your time. 
+        These carts do not take a long time to set up, though with some carts you may have to try a few kernels until you find one that works!
+    </p>
+
+    <p> 
+        If you are looking to buy a cart, see the flashcart wiki's quick start guide here: <a href="https://flashcarts.net/ds-quick-start-guide">flashcarts.net</a> - 
+        make sure to read through all of the cart descriptions to choose the right one for your console.
+        <br/><br/><i>If you are on a DSi or 3DS, consider installing custom firmware (CFW) instead:</i>
+        <ul>
+            <li><a href="https://dsi.cfw.guide">https://dsi.cfw.guide</a> - Guide for installing Twilight Menu ++ and Unlaunch</li>
+            <li><a href="https://3ds.hacks.guide">https://3ds.hacks.guide</a> - Guide for installing Luma3ds - Download Twilight menu ++ from universal updater after installation</li>
+        </ul>
+        <i>If you get an error message (An error has occurred...) when trying to use your cart, this should fix it! CFW is free and easy to install, I would highly recommend doing so</i>
+    </p>
+    <h3 id="sd-cards">SD Cards</h3>
+    <p>Most DS flashcarts are SDHC compatible, there are some carts that only support up to 2GB microSD cards - like the original R4</p>
+    <p>For carts that only support 2GB microSD cards, you should see this message on their page:</p>
+
+    <blockquote>
+        <p class="sd-notice">This cart only supports microSD cards up to 2GB in capacity</p>
+    </blockquote>
+
+    <p>
+        DS Flashcarts are usually picky about the way their microSD cards are formatted. Here is a guide on how to properly format the microSD card for use in these flashcarts:
+        <a href="https://dsi.cfw.guide/sd-card-setup.html">dsi.cfw.guide/sd-card-setup.html</a><br/>
+        On flashcarts that do not have a 2GB limit, you can use up to 2TB capacity microSD cards. This is quite excessive though, DS ROMs are small so we would recommend 32GB microSDHC cards instead.
+    </p>
+
+    <p class="warning">! &gt; Warning about Fake/Cheap Micro SD Cards (or storage in general)</p>
+    <p>I would suggest buying your micro SD cards in stores, instead of online marketplaces like AliExpress / Amazon / eBay / Temu / Wish / etc.</p>
+    
+    <p>
+        I say this because there are many fake micro SD cards online. 
+        “High Capacity” micro SD cards that are somehow cheaper than name brands. 
+        <strong>DO NOT</strong> trust these micro SD cards, they are a lower capacity than what they claim. 
+        You might already know this, but others do not. 
+    </p>
+    <p>
+        Even if you could figure out the capacity, it’s still not a good idea to trust them, I feel as though <a href="https://youtu.be/HFY5hd273lI">this video</a> is great at explaining why. 
+        It was made a few years ago, <strong>the information is still up-to-date in 2023!</strong>
+    </p>
+    <p>
+        Always stick to big name brands like SanDisk. 
+        If you have to buy your micro SD card from a marketplace,  make sure that you are buying from an official seller to reduce your chances of receiving a fake SD card.
+    </p>
+    <p class="warning">
+        ! &gt; Sometimes stores like Walmart will sell some of their marketplace items in-store, if its high capacity and very cheap, do not trust it.
+    </p>
+    <p>
+        If you are buying a flashcart, don't buy one with an included/pre-loaded microSD card.
+        These SD cards are made to be cheap, they will fail on you within weeks and all of your data will be gone.
+        They are also more expensive than buying the cart on it's own. Save yourself the hassle and buy them on their own.
+    </p>
+    <h3>Recommended software</h3>
+    <p> Here is the software that I would recommend installing before following the guide for your carts:</p>
+    <ul>
+        <li>
+            <a href="https://7-zip.org">7-Zip</a> (Windows) - 
+            7-Zip is a file archiver that is free and open source!</li>
+        <li>
+            <a href="https://theunarchiver.com/">The Unarchiver</a> (MacOS) -
+            File extractor for Mac OS, much better than Archive Utility in my opinion!
+        </li>
+        <li>
+            <a href="https://github.com/peazip/PeaZip/">PeaZip</a> (Windows/MacOS/Linux) - 
+            Similar to 7-Zip, PeaZip is a file archiver that works on Windows, MacOS and Linux - it's also free and open source! 
+        </li>
+    </ul>
+
+    <p>
+        If you are using Linux, most of the time a file extractor will be included with your distro, I’d recommend using that instead.
+    </p>
+    <p class="warning">
+        ! &gt; I do not recommend using WinRAR or Archive Utility for extracting your kernel files.
+    </p>
+
+    <h3>Piracy Disclaimer</h3>
+    <p>
+        I have not, and will not, promote piracy on this site. 
+        This site is intended to set up your DS Flashcard, not to download ROMs. 
+        There are other sites dedicated to pirated ROMs. 
+    </p>
+
+    <h2>Troubleshooting</h2>
+    <p>If you are having issues with your cart, see the troubleshooting steps here: <a href="troubleshooting.html">Troubleshooting page</a></p>
+
+    <h2>Timebomb Misconceptions</h2>
+    <p>
+        Timebombs aren't as harmful as some people make them out to be. 
+        You can read about them here: <a href="timebomb.html">Timebomb Misconceptions</a>
+    </p>
+
+    <p class="warning">
+      This site is still a work in progress (unfortunately), though pages for some carts are complete!
+    </p>
+    <a href="identification/start.html">
+        <section class="button">
+            Click me to begin!
+        </section>
+    </a>
+</body>
+</html>
